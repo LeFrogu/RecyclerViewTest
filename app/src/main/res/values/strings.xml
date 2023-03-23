@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerViewTest</string>
+    
+    <string-array name="mailHeader">
+        <item>ANNOUNCMENT</item>
+        <item>NOTICE</item>
+        <item>HELP</item>
+        <item>HOW ARE YOU DOING?</item>
+        <item>SNAKE EATEEER</item>
+        <item>CRIMEEEEEEEEEEEEEEE</item>
+        <item>IM STILL IN A DREAAAAM</item>
+        <item>JOIN US!</item>
+        <item>WERE HERE FOR YOUR EXTENDED WARRANTY</item>
+        <item>DO DO DO DO</item>
+    </string-array>
+    <string-array name="mailInfo">
+        <item>I just got vaccinated</item>
+        <item>CLEAN YOUR DOGS SHIT</item>
+        <item>ITS COMING ITS COMING ITS COMING ITS LOOKING AT ME</item>
+        <item>I JUST WANNA KNOW IF SOMEONES LIVING IN YOUR WALLS</item>
+        <item>SOMEDAY YOULL GO THROUGH THE RAIN</item>
+        <item>SOMEDAY YOULL FEED ON A TREE FROG</item>
+        <item>THIS ORDEAL THE TRIAL TO SURVIVEEEEEEEEE</item>
+        <item>BENEATH THIS BLOODSTAINED SAAAAAAAAAAND</item>
+        <item>MOUNTAINS DONT GIVE BACK WHAT THEY TAKE</item>
+        <item>TIME WILL COME TO SOFTLY LAY ME DOOWN</item>
+    </string-array>
+    
+</resources>
